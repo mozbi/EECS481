@@ -15,7 +15,7 @@ number of attempts or clicks they have made by looking at the "tries" variable
 on the top right corner of the screen. Once a player successfully completes the
 game, the game announces that the player has won.
 
-Build instructions:
+Build Instructions:
 To run the code, follow these steps:
 1. Import the project to Eclipse.
 
@@ -26,3 +26,7 @@ API level 18.
 building, the game will show up on the emulator screen and be available for
 play.
 
+Code Locations:
+1. Directory containing java source files: src/homework2/eecs481/matchingsquares 
+2. Directory containing pictures used for squares: res/drawable-mdpi
+3. Directory containing layout xml file: res/layout
