@@ -15,6 +15,10 @@ number of attempts or clicks they have made by looking at the "tries" variable
 on the top right corner of the screen. Once a player successfully completes the
 game, the game announces that the player has won.
 
+Git Repository:
+https://github.com/mozbi/EECS481 or
+git@github.com:mozbi/eecs481
+
 Build Instructions:
 To run the code, follow these steps:
 1. Import the project to Eclipse.
