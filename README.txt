@@ -1,6 +1,3 @@
-EECS481 Homework 2
-==================
-
 Game Description:
 Matching Squares is a 4x4 memory and trial game. When the game starts, a 4x4
 grid of squares will be shown on the screen with squares facing down. Squares
